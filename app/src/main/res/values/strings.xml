@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FRDB_HW</string>
+    <string name="playlist">Playlist</string>
+    <string name="update_playlist_name">update playlist name</string>
+    <string name="playlist_info">playlist info</string>
+    <string name="author">Author</string>
+    <string name="update">update</string>
+    <string name="show">show</string>
+    <string name="language">Language</string>
+    <string name="songs">Songs</string>
+    <string name="save">save</string>
+    <string name="private_str">Private</string>
+</resources>

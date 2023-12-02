@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "843624903355",
+    "firebase_url": "https://frdb-hw-default-rtdb.firebaseio.com",
+    "project_id": "frdb-hw",
+    "storage_bucket": "frdb-hw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843624903355:android:2655a9ed901af1af2d6f9e",
+        "android_client_info": {
+          "package_name": "com.example.frdb_hw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs87gHeq279v-mv6bK4AUTxyHTNvBxqOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
